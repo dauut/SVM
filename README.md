@@ -34,6 +34,6 @@ In this function, "One vs Rest" algorithm applied for multiclass classification.
 
 ## Results
 
-|![Fig 1](assets/1.PNG)| ![Fig 2](assets/2.PNG)|![Fig 3](assets/3.PNG)|
+|![Fig 1](assets/1.png)| ![Fig 2](assets/2.png)|![Fig 3](assets/3.png)|
 | ------------- |:-------------:| -----:|
 |![Fig 4](assets/4.PNG)| ![Fig 5](assets/5.PNG)|![Fig 6](assets/6.PNG)|
